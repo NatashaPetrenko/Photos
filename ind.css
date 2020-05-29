@@ -22,7 +22,7 @@ body {
   letter-spacing: 0.1rem;
 }
 .intro-slideshow img {
-  position: absolute;
+  position: absolute; 
   top: 0;
   left: 0;
   width: 100%; /* relative to nearest positioned ancestor and not nearest block-level ancestor - alternatively: width: 100vw; */
